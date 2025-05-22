@@ -1,5 +1,5 @@
 const defaultConfig = require("tailwindcss/defaultConfig")
-const shadcnConfig = require("shadcn/ui/tailwind.config")
+const shadcnConfig = require("./ui/tailwind.config")
 
 module.exports = {
   ...shadcnConfig,
